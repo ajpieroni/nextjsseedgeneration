@@ -1,0 +1,3 @@
+# ignore any csv files in the directory 
+# that are not the ones we want to read in
+*.csv
